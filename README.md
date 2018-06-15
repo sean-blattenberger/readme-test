@@ -8,7 +8,7 @@ A user will log in to their account and see a question box where they are able t
 
 ## Built With
 
-![REACTJS](https://img.shields.io/badge/badges-2-blue.svg)
+![REACTJS](https://img.shields.io/REACTJS/badges-2-blue.svg)
 - React Router
 - Semantic UI / Less / Gulp
 - Knex.js
